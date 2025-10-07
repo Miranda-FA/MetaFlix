@@ -11,8 +11,6 @@ Este é um **monorepo fullstack moderno**, organizado para ser **escalável, reu
 A arquitetura do Metaflix protege a **lógica de negócio** e separa claramente **domínio, aplicação e infraestrutura**.  
 
 ```
-
-```
       ┌───────────────────────────┐
       │        🌐 Frontend         │
       │ apps/web (Next.js)        │
@@ -48,8 +46,6 @@ A arquitetura do Metaflix protege a **lógica de negócio** e separa claramente 
       │ infra/external            │
       │ Banco, Auth, Integrações  │
       └───────────────────────────┘
-```
-
 ```
 
 💡 **Analogia:**  
